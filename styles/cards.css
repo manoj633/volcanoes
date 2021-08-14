@@ -4,7 +4,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background:url(../volcanoes/asset/background.jpg);
+  background:url("../asset/background.jpg");
   overflow: hidden;
 }
 .card {
@@ -26,7 +26,7 @@
 }
 .card-image {
   grid-area: image;
-  background: url(/volcanoes/asset/mount-fuji.png);
+  background: url("../asset/mount-fuji.png");
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   background-size: cover;
@@ -89,7 +89,7 @@
 
 /*card2*/
 .card-image.card2 {
-  background: url(../volcanoes/asset/mauna-loa.jpg);
+  background: url("../asset/mauna-loa.jpg");
   background-size: cover;
 }
 .card-text.card2 .date {
@@ -104,7 +104,7 @@
 }
 /*card3*/
 .card-image.card3 {
-  background: url(/volcanoes/asset/paricutin.jpg);
+  background: url("../asset/paricutin.jpg");
   background-size: cover;
 }
 .card-text.card3 .date {
@@ -124,13 +124,13 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background:url(../volcanoes/asset/background1.jpg);
+  background:url("../asset/background1.jpg");
   overflow: hidden;
 }
 
 .card-image1 {
   grid-area: image;
-  background: url(../volcanoes/asset/Ngorongoro.jpg);
+  background: url("../asset/Ngorongoro.jpg");
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   background-size: cover;
