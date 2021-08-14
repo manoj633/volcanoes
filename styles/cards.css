@@ -104,7 +104,7 @@
 }
 /*card3*/
 .card-image.card3 {
-  background: url("../asset/paricutin.jpg");
+  background: url("/asset/paricutin.jpg");
   background-size: cover;
 }
 .card-text.card3 .date {
