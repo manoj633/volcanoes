@@ -137,11 +137,11 @@
 }
 
 .card-image1.card2 {
-  background: url(../volcanoes/asset/sakurajima.jpg);
+  background: url("/asset/sakurajima.jpg");
   background-size: cover;
 }
 
 .card-image1.card3 {
-  background: url(../volcanoes/asset/sinabung.jpg);
+  background: url("/asset/sinabung.jpg");
   background-size: cover;
 }
