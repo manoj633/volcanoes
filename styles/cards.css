@@ -26,7 +26,7 @@
 }
 .card-image {
   grid-area: image;
-  background: url("F:/4JN17EC039/GUI/1HTML//volcanoes/asset/mount-fuji.png");
+  background: url("F:/4JN17EC039/GUI/1HTML/volcanoes/asset/mount-fuji.png");
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   background-size: cover;
@@ -124,7 +124,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background:url("F:/4JN17EC039/GUI/1HTML//volcanoes/asset/background1.jpg");
+  background:url("F:/4JN17EC039/GUI/1HTML/volcanoes/asset/background1.jpg");
   overflow: hidden;
 }
 
@@ -137,11 +137,11 @@
 }
 
 .card-image1.card2 {
-  background: url("F:/4JN17EC039/GUI/1HTML//volcanoes/asset/sakurajima.jpg");
+  background: url("F:/4JN17EC039/GUI/1HTML/volcanoes/asset/sakurajima.jpg");
   background-size: cover;
 }
 
 .card-image1.card3 {
-  background: url("F:/4JN17EC039/GUI/1HTML//volcanoes/asset/sinabung.jpg");
+  background: url("F:/4JN17EC039/GUI/1HTML/volcanoes/asset/sinabung.jpg");
   background-size: cover;
 }
