@@ -26,7 +26,7 @@
 }
 .card-image {
   grid-area: image;
-  background: url(../volcanoes/asset/mount-fuji.png);
+  background: url(/volcanoes/asset/mount-fuji.png);
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   background-size: cover;
